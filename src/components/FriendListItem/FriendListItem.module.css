@@ -1,0 +1,23 @@
+.item {
+  padding: 16px;
+  border: 1px solid olive;
+  border-radius: 8px;
+  box-shadow: inset 0 0 8px 3px olive;
+}
+.image {
+  padding-bottom: 16px;
+}
+.name {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+.status {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
